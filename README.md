@@ -1,4 +1,4 @@
-# Hi Everyone 👋
+# Hi Everyone 
 
 ![sho](https://raw.githubusercontent.com/xzylou/luxyy21/main/img/Thumbnail.jpg)
 
