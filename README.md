@@ -3,35 +3,34 @@
 ![sho](https://raw.githubusercontent.com/xzylou/luxyy21/main/img/Thumbnail.jpg)
 
 ## Skills
+## Skills
 
 <div align="left">
-
-  <img src="https://cdn.simpleicons.org/figma/ffffff" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/figma.svg" height="40" alt="Figma" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/affinity/ffffff" height="40" alt="Affinity" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/affinity.svg" height="40" alt="Affinity" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/adobephotoshop/ffffff" height="40" alt="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/adobephotoshop.svg" height="40" alt="Photoshop" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/html5/ffffff" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/html5.svg" height="40" alt="HTML5" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/css3/ffffff" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/css3.svg" height="40" alt="CSS3" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/javascript/ffffff" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg" height="40" alt="JavaScript" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/laravel/ffffff" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/laravel.svg" height="40" alt="Laravel" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/php/ffffff" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/php.svg" height="40" alt="PHP" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/react/ffffff" height="40" alt="React" />
-
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/react.svg" height="40" alt="React" />
 </div>
 
 ## Connect with me
